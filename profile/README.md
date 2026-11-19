@@ -1,14 +1,19 @@
 <!--
 File: README.md
-Description: Public GitHub organization profile for CyperZaX (rendered at github.com/CyperZaX from the .github repo's profile/ folder).
+Description: Public GitHub organization profile for CyperZaX (rendered at github.com/CyperZaX from the .github repo's profile/ folder). Logo: idle variant of the animated_logos/cyperzax package v1.0.0.
 Author: Jose-Jorge HERNANDEZ
 Company: CyperZaX
 Date: 2026-11-19
 Last edit date: 2026-11-19
-Version: 1.0.0
+Version: 1.1.0
 -->
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/logos/animated/cyperzax_logo_idle_dark.svg">
+  <img src="../assets/logos/animated/cyperzax_logo_idle_light.svg" alt="CyperZaX logo" width="430">
+</picture>
 
 # CyperZaX
 
